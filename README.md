@@ -17,23 +17,22 @@ Automatically generates pre-meeting briefings by:
 ## Sample Output
 
 ```
-📋 Meeting Briefing: Mute + RTP Lunch
-📍 La Dong, 11 E 17th St, NYC
-⏰ 12:30 PM ET
+📋 Meeting Briefing: Partner Sync
+📍 Conference Room / Zoom
+⏰ 2:00 PM ET
 
 👥 Attendees:
-• Tom (tom@rtp.vc) - RTP Global
-• Robert B (robertb@rtp.vc) - RTP Global
+• Alex Johnson (alex@acme.com) - CEO @ Acme Corp
+• Sam Chen (sam@acme.com) - Head of Partnerships
 
-🏢 About RTP Global:
-- Global early-stage VC (NYC, founded 2000)
-- Focus: AI/ML, B2B SaaS, Fintech, Health
-- Notable: Datadog, DeliveryHero
-- 1 in 10 portfolio companies reached unicorn
+🏢 About Acme Corp:
+- B2B SaaS, Series B ($25M from Sequoia)
+- 50-100 employees, founded 2019
+- Recent news: Launched enterprise tier
 
 💡 Context:
-Peer VC relationship meeting - likely discussing
-co-investment opportunities or deal flow sharing.
+Partnership discussion - they reached out about
+integration opportunities last quarter.
 ```
 
 ## Setup
