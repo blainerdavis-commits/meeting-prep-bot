@@ -1,0 +1,23 @@
+# Credentials
+.env
+*.pem
+*_key.pem
+config.py
+
+# Data
+*.csv
+*.json
+state.json
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# IDE
+.idea/
+.vscode/
+
+# OS
+.DS_Store
